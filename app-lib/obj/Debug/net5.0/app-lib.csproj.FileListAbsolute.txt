@@ -1,0 +1,12 @@
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\bin\Debug\net5.0\app-lib.deps.json
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\bin\Debug\net5.0\app-lib.dll
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\bin\Debug\net5.0\ref\app-lib.dll
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\bin\Debug\net5.0\app-lib.pdb
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.csproj.AssemblyReference.cache
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.AssemblyInfoInputs.cache
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.AssemblyInfo.cs
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.csproj.CoreCompileInputs.cache
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.dll
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\ref\app-lib.dll
+C:\Users\Ton\source\repos\test-vs-sln\app-lib\obj\Debug\net5.0\app-lib.pdb

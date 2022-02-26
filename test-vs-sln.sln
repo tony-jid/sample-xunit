@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-console", "app-console\app-console.csproj", "{D9A0D409-FDA3-4B55-98DC-496046C85F40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-lib", "app-lib\app-lib.csproj", "{171D8DFC-6BE9-487F-840A-041A801EF34A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app-test", "app-test\app-test.csproj", "{4A78DB5E-F2B5-47CD-AF0E-FEF7E698CA19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9A0D409-FDA3-4B55-98DC-496046C85F40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9A0D409-FDA3-4B55-98DC-496046C85F40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9A0D409-FDA3-4B55-98DC-496046C85F40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9A0D409-FDA3-4B55-98DC-496046C85F40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{171D8DFC-6BE9-487F-840A-041A801EF34A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{171D8DFC-6BE9-487F-840A-041A801EF34A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{171D8DFC-6BE9-487F-840A-041A801EF34A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{171D8DFC-6BE9-487F-840A-041A801EF34A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A78DB5E-F2B5-47CD-AF0E-FEF7E698CA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A78DB5E-F2B5-47CD-AF0E-FEF7E698CA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A78DB5E-F2B5-47CD-AF0E-FEF7E698CA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A78DB5E-F2B5-47CD-AF0E-FEF7E698CA19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC7C4EBC-FF24-48E6-85C4-D0D2745230DD}
+	EndGlobalSection
+EndGlobal
