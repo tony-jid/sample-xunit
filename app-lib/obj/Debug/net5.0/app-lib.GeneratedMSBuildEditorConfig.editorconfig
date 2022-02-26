@@ -7,4 +7,4 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = app_lib
-build_property.ProjectDir = C:\Users\Ton\Source\Repos\tony-jid\sample-xunit\app-lib\
+build_property.ProjectDir = C:\Users\Ton\source\repos\tony-jid\sample-xunit\app-lib\
